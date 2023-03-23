@@ -51,7 +51,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> This is a simple trial project that dispalys "Hello Microverse"
 
 **[your_project__name]** is a...
 
@@ -158,7 +157,6 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **Deploy live**
 - [ ] **Add better styling**
